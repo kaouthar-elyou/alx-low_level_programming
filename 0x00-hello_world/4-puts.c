@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  main - program that prints a new line with puts function 
- *  Return: 0 (success)
- * /
+ * main - program that prints a new line with puts function 
+ * Return: 0 (success)
+ */
  int main(void)
  {
  puts("\"Programming is like building a multilingual puzzle");
